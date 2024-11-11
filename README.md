@@ -5,3 +5,4 @@ Welcome to Upskill
 anoop kumar
 Vikash Kumar
 Yogesh Fulara
+Isaac Peter
