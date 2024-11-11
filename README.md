@@ -1,8 +1,8 @@
 # Calculator
-We are Developing a Calculator for ABC company
-redide Krishikesh Jadhav
+We are Developing a Calculator for ABC Company
+Redide Krishikesh Jadhav
 Welcome to Upskill
-anoop kumar
+Anoop Kumar
 Vikash Kumar
 Yogesh Fulara
 Isaac Peter
