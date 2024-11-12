@@ -4,5 +4,5 @@ redide Krishikesh Jadhav
 Welcome to Upskill
 anoop kumar
 Vikash Kumar
-Yogesh Fulara
+Yogesh K Fulara
 Isaac Peter
